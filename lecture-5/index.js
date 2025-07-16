@@ -1,7 +1,7 @@
 let users= [
     {
         id: 1,
-        name: "Srishti",
+        name: "Rishika",
         age: 21
     },
     {
